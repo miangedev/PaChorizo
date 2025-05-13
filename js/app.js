@@ -11,9 +11,6 @@ window.addEventListener('scroll',()=>{
     }
 })
 
-/*=========================================
-    Tabs
-==========================================*/
 if(document.querySelector('.hm-tabs')){
 
     const tabLinks=document.querySelectorAll('.hm-tab-link');
