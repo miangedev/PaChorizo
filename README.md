@@ -81,5 +81,8 @@ Consulta `LICENSE.md` para detalles sobre la licencia, atribución al autor orig
 - Proyecto original: [juliocesardw/tienda-online](https://github.com/juliocesardw/tienda-online)  
   Autor original: **Julio César**
 
-- Adaptación académica y modificaciones: **Miguel Ángel Osorio Orduz**  
+- Adaptación académica y modificaciones:
+    **Miguel Ángel Osorio Orduz**
+    **Yoel Alexander Ortega Ariza**
+    **Jhonatan Fabian Monsalve Monsalve**
   Repositorio adaptado: [miangedev/PaChorizo](https://github.com/miangedev/PaChorizo)
