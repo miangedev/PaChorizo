@@ -82,7 +82,5 @@ Consulta `LICENSE.md` para detalles sobre la licencia, atribución al autor orig
   Autor original: **Julio César**
 
 - Adaptación académica y modificaciones:
-    **Miguel Ángel Osorio Orduz**
-    **Yoel Alexander Ortega Ariza**
-    **Jhonatan Fabian Monsalve Monsalve**
+    **Miguel Ángel Osorio Orduz** - **Yoel Alexander Ortega Ariza** - **Jhonatan Fabian Monsalve Monsalve**
   Repositorio adaptado: [miangedev/PaChorizo](https://github.com/miangedev/PaChorizo)
